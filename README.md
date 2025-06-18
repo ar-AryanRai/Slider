@@ -2,7 +2,7 @@
 
 **Slider** is a responsive image carousel built with HTML, CSS, and Vanilla JavaScript. It allows users to navigate through a series of images using left/right controls and provides smooth transitions for a polished user experience.
 
-🌐 **Live Demo**: [ar-aryanrai.github.io/Slider](https://ar-aryanrai.github.io/Slider/)
+🌐 **Live Demo**: [Click here to visit Image Carousel](https://ar-aryanrai.github.io/Slider/)
 
 ---
 
